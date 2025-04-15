@@ -1,8 +1,8 @@
 ﻿
 using ApiLocadora.Dots;
-using ApiLocadora;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ApiLocadora.Models;
 
 namespace api_locadora.Controllers
 {
@@ -55,12 +55,15 @@ namespace api_locadora.Controllers
         }
 
         [HttpDelete("{id}")]
-
-        public IActionResult Remover (Guid id)
+        public IActionResult Remover(Guid id)
         {
             var index = listafilmes.FindIndex(x => x.id == id);
 
-            return Ok();
+            if (index == -1)
+                return NotFound("Filme não encontrado.");
+
+            listafilmes.RemoveAt(index);
+            return NoContent(); // 204 - item removido com sucesso
         }
 
     }
