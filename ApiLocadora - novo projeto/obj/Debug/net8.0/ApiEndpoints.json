@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "ApiLocadora.Controllers.EstudioController",
+    "Method": "Listar",
+    "RelativePath": "Estudio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiLocadora.Controllers.EstudioController",
+    "Method": "Cadastrar",
+    "RelativePath": "Estudio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudio",
+        "Type": "ApiLocadora.Models.Estudio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "api_locadora.Controllers.FilmeController",
     "Method": "Buscar",
     "RelativePath": "filme",
@@ -18,7 +44,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "filme",
+        "Name": "filmeDto",
         "Type": "ApiLocadora.Dots.FilmeDot",
         "IsRequired": true
       }
@@ -39,7 +65,7 @@
         "IsRequired": true
       },
       {
-        "Name": "filme",
+        "Name": "filmeDto",
         "Type": "ApiLocadora.Dots.FilmeDot",
         "IsRequired": true
       }
@@ -57,6 +83,32 @@
       {
         "Name": "id",
         "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiLocadora.Controllers.GeneroController",
+    "Method": "Listar",
+    "RelativePath": "Genero",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiLocadora.Controllers.GeneroController",
+    "Method": "Cadastrar",
+    "RelativePath": "Genero",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genero",
+        "Type": "ApiLocadora.Models.Genero",
         "IsRequired": true
       }
     ],

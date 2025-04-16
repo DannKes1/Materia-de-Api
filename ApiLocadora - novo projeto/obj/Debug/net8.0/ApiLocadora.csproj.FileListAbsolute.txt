@@ -62,3 +62,39 @@ C:\Users\2023102060016\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLoca
 C:\Users\2023102060016\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora\obj\Debug\net8.0\ApiLocadora.pdb
 C:\Users\2023102060016\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora\obj\Debug\net8.0\ApiLocadora.genruntimeconfig.cache
 C:\Users\2023102060016\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora\obj\Debug\net8.0\ref\ApiLocadora.dll
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocadora.csproj.AssemblyReference.cache
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocadora.AssemblyInfoInputs.cache
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocadora.AssemblyInfo.cs
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocadora.csproj.CoreCompileInputs.cache
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocadora.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocadora.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocadora.dll
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\refint\ApiLocadora.dll
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocadora.pdb
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\appsettings.json
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\ApiLocadora.staticwebassets.endpoints.json
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\ApiLocadora.exe
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\ApiLocadora.deps.json
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\ApiLocadora.runtimeconfig.json
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\ApiLocadora.dll
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\ApiLocadora.pdb
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\scopedcss\bundle\ApiLocadora.styles.css
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\staticwebassets\msbuild.ApiLocadora.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\staticwebassets\msbuild.ApiLocadora.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiLocadora.props
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiLocadora.props
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiLocadora.props
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocad.5AF6BE35.Up2Date
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ApiLocadora.genruntimeconfig.cache
+C:\Users\burst\Downloads\Materia-de-Api-main\Materia-de-Api-main\ApiLocadora - novo projeto\obj\Debug\net8.0\ref\ApiLocadora.dll

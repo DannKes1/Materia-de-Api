@@ -6,10 +6,18 @@ namespace ApiLocadora.Dots
     public class FilmeDot
     {
         [Required]
-        public required string Nome { get; set; }
+        public string Nome { get; set; }
 
         [Required]
-        public required string Genero { get; set; }
+        public string Genero { get; set; }
 
+        [Required]
+        public string Diretor { get; set; }
+
+        [Required]
+        public int AnoLancamento { get; set; }
+
+        [Required]
+        public string Estudio { get; set; } // Nome do estúdio
     }
 }
